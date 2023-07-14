@@ -1,2 +1,1 @@
-# PC-remote-control-software
-If you need a program for remote access to a PC, here it is. (read (README.txt))
+If you need a program for remote access to a PC, with functions such as: ip, access to system information, file system management, screenshot, access to a webcam, open web pages, send WhatsApp messages, access the microphone, change the volume, restart the PC , keyboard access, an error message popping up, playing words into headphones, downloading something from the Internet, opening cmd or typing a command, playing an audio file, blocking keyboard input, triggering a push notification, setting wallpaper, checking browser history, and all this remotely from the device on which the code is running.
